@@ -15,12 +15,19 @@
     ]
   },
   {
+    "id": "fischer-business",
+    "question": "What is the name of the Fischer family business?",
+    "expected_phrases": [
+      "Fischer Morrow"
+    ]
+  },
+  {
     "id": "mal-death",
     "question": "What happened to Mal?",
     "expected_phrases": [
-      "jumped",
-      "killed herself",
-      "committed suicide",
+      "she's dead",
+      "kill ourselves",
+      "needed to wake up again",
       "her death"
     ]
   },
@@ -29,7 +36,8 @@
     "question": "What was Fischer's relationship with his father like?",
     "expected_phrases": [
       "disappointed",
-      "strained"
+      "strained",
+      "relationship is complicated"
     ]
   }
 ]
