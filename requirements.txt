@@ -1,0 +1,9 @@
+# Runtime dependencies used by the referenced RAG-from-scratch tutorial.
+pdfminer-six>=20231228,<20240000
+tqdm>=4.66.4,<5
+tiktoken>=0.7.0,<1
+nltk>=3.8.1,<4
+numpy>=2.0.0,<3
+pydantic-settings>=2.3.3,<3
+groq>=0.9.0,<1
+nomic[local]>=3.0.33,<4
