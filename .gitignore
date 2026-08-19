@@ -19,7 +19,7 @@ venv/
 .cache/
 
 # Generated RAG data
-data/vector_store.json
+
 
 # Notebooks and editors
 .ipynb_checkpoints/
