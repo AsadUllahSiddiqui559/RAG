@@ -1,0 +1,35 @@
+[
+  {
+    "id": "resilient-parasite",
+    "question": "What is the most resilient parasite?",
+    "expected_phrases": [
+      "most resilient parasite",
+      "an idea"
+    ]
+  },
+  {
+    "id": "cobbs-wife",
+    "question": "What is the name of Cobb's wife?",
+    "expected_phrases": [
+      "Mal"
+    ]
+  },
+  {
+    "id": "mal-death",
+    "question": "What happened to Mal?",
+    "expected_phrases": [
+      "jumped",
+      "killed herself",
+      "committed suicide",
+      "her death"
+    ]
+  },
+  {
+    "id": "fischer-father",
+    "question": "What was Fischer's relationship with his father like?",
+    "expected_phrases": [
+      "disappointed",
+      "strained"
+    ]
+  }
+]
